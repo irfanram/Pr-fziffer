@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\PZN8\bin\Debug\net8.0-windows\PZN8.exe
+C:\Users\Dell\source\repos\PZN8\bin\Debug\net8.0-windows\PZN8.deps.json
+C:\Users\Dell\source\repos\PZN8\bin\Debug\net8.0-windows\PZN8.runtimeconfig.json
+C:\Users\Dell\source\repos\PZN8\bin\Debug\net8.0-windows\PZN8.dll
+C:\Users\Dell\source\repos\PZN8\bin\Debug\net8.0-windows\PZN8.pdb
+C:\Users\Dell\source\repos\PZN8\obj\Debug\net8.0-windows\PZN8.Form1.resources
+C:\Users\Dell\source\repos\PZN8\obj\Debug\net8.0-windows\PZN8.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\PZN8\obj\Debug\net8.0-windows\PZN8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\PZN8\obj\Debug\net8.0-windows\PZN8.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\PZN8\obj\Debug\net8.0-windows\PZN8.AssemblyInfo.cs
+C:\Users\Dell\source\repos\PZN8\obj\Debug\net8.0-windows\PZN8.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PZN8\obj\Debug\net8.0-windows\PZN8.dll
+C:\Users\Dell\source\repos\PZN8\obj\Debug\net8.0-windows\refint\PZN8.dll
+C:\Users\Dell\source\repos\PZN8\obj\Debug\net8.0-windows\PZN8.pdb
+C:\Users\Dell\source\repos\PZN8\obj\Debug\net8.0-windows\PZN8.genruntimeconfig.cache
+C:\Users\Dell\source\repos\PZN8\obj\Debug\net8.0-windows\ref\PZN8.dll
